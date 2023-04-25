@@ -26,6 +26,7 @@ body {
     padding: 0;
     overflow-x: hidden;
     color: #545454;
+    background-image: url('https://media.istockphoto.com/id/1345697568/photo/men-hands-are-typing-on-their-smartphones-and-chat-box-symbols-appear-concept-of-social-media.jpg?b=1&s=170667a&w=0&k=20&c=AMPZ3lLh4WMt01oefyNP6ex2Bos-k63WQ6LixVeUt_k=');
     background: #b0b3b8;
 }
 
@@ -771,7 +772,7 @@ header.sticky {
 }
 
 .timeline-info {
-    background: ##b0b3b8 none repeat scroll 0 0;
+    background: #b0b3b8 none repeat scroll 0 0;
     display: block;
     line-height: 59px;
     width: 100%;
@@ -10036,5 +10037,3 @@ aside.sidebar.full-style {
     letter-spacing: 0.5px;
     text-transform: uppercase;
 }
-
-

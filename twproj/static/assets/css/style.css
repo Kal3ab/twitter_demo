@@ -8,7 +8,11 @@
  
 
 body{
-  background-color: #B0B3B8!important;
+  background-image: url('https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2luZG93cyUyMDEwJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60')!important;
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-position: center center;
+  background-color: #1b4a9c;
 }
 
 /* ---------------------------------- */
@@ -19,7 +23,7 @@ button {
 }
 
 span.button, button.button {
-  background-color: #be185d;
+  background-color: #4821b6;
   top: 0;
   color: #fff;
   position: relative;
@@ -40,7 +44,7 @@ span.button, button.button {
 }
 
 input[type="button"], input[type="submit"] {
-  background-color: #be185d;
+  background-color: #2d1cc4;
   top: 0;
   padding: 10px 20px;
   line-height: 24px;
@@ -60,7 +64,7 @@ input[type="button"], input[type="submit"] {
 }
 
 a.button {
-  background-color: #be185d;
+  background-color: #551bb3;
   top: 0;
   padding: 8px 18px;
   line-height: 22px;
@@ -191,7 +195,7 @@ span.bookmark-icon {
 }
 
 .bookmark-icon.bookmarked {
-  background-color: #feb342;
+  background-color: #1d8ba7;
   color: #fff;
 }
 
